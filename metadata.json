@@ -1,0 +1,6 @@
+{
+  "name": "RAG Basics Simulation",
+  "description": "An interactive, step-by-step simulation designed for non-AI/ML professors to understand the mechanics of Retrieval-Augmented Generation (RAG) vs. standard LLMs.",
+  "author": "Rajesh Pandhare, Kanaka Software Consulting Pvt. Ltd.",
+  "requestFramePermissions": []
+}
